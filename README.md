@@ -18,8 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=w4t3rcs&icon=0&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/w4t3rcs) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
